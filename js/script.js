@@ -16,7 +16,7 @@ const sections = [
       { platform:"twitter", url:"https://twitter.com/AZKi_VDiVA" },
       { platform:"hololive", url:"https://hololive.hololivepro.com/en/talents/azki/" },
     ] },
-    { name:"Sakura Miko", accent:"#ff77ab", bio:"", photos:[], socials:[ 
+    { name:"Sakura Miko", accent:"#ff77ab", bio:"", photos:[], socials:[
       { platform:"youtube", url:"https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA" },
       { platform:"twitter", url:"https://twitter.com/sakuramiko35" },
       { platform:"hololive", url:"https://hololive.hololivepro.com/en/talents/sakuramiko/" },

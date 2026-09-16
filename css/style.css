@@ -38,6 +38,7 @@ body{
   position:relative;
 }
 
+
 /* ---------- drifting blurred blobs ---------- */
 #blob-field{
   position:fixed;

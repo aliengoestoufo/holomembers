@@ -1,4 +1,3 @@
-/* ============ DATA ============ */
 const sections = [
   { id:"gen0", label:"Gen 0", accent:"#38bdf8", flag:"🇯🇵", members:[
     { name:"Tokino Sora", accent:"#1565c0", bio:"&ldquo;Hey, Sora-tomo! How are you all doing? It's me, Tokino Sora!&rdquo;<br><br>hololive Production's first virtual idol, debuting on September 7, 2017. She loves horror games and singing, and has always dreamed of performing in Yokohama Arena.<br><br>She signed a record deal with Victor Entertainment in March 2019. She is active in various forms of media, such as appearing in Watanuki-san Chi no and hosting Sora Ao to!, a radio show.<br><br>She held her first solo concert, Dream!, on October 6, 2019, taking one step closer to her ultimate goal.", photos:[], socials:[

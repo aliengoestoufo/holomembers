@@ -340,16 +340,6 @@ const sections = [
 
 const STATUS_LABEL = { alum:"Alum", affiliate:"Affiliate" };
 
-/* Platform icons + a color per platform.
-   - youtube/twitter use close, recognizable approximations of their
-     actual marks — standard practice for "this links to X" icons,
-     the same reason link-badge icon packs exist.
-   - hololive defaults to a generic sparkle, since I can't draw hololive's
-     actual logo/mascots myself (that's real, non-abstract character
-     art, unlike a simple platform glyph). If a social entry includes
-     an `icon` path (see the `socials` format note up top), that image
-     is used instead of the generic icon below — so once you have a
-     mascot image file, it drops right in. */
 const SOCIAL_META = {
   youtube: {
     label:"YouTube",
